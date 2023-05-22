@@ -6,6 +6,7 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz-cazares/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:luzelena.cazares@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/dlux_cazares)
 ![githubfollowers](https://img.shields.io/github/followers/dlux?style=social)
 
