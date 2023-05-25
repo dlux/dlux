@@ -19,7 +19,7 @@
 <!-- other color github_dark -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![Luz's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlux&theme=tokyo-night&hide_border=true)
+![Luz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlux&theme=tokyo-night&hide_border=true)
 
 <!--
 **dlux/dlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
