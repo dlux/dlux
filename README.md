@@ -1,14 +1,12 @@
-## Hi there 👋
-
-### I'm Luz
+## Hi there, I'm Luz 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=914AB6&width=435&lines=Luz+Cazares)](https://git.io/typing-svg) -->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz-cazares/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz-cazares/)
 [![X](https://img.shields.io/twitter/follow/dlux_cazares?label=follow&style=social)](https://twitter.com/dlux_cazares)
-![github](https://img.shields.io/github/followers/dlux?label=follow&style=social)
+![github](https://img.shields.io/github/followers/dlux?label=follow&style=flat)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dlux/dlux)
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
