@@ -16,8 +16,12 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- other color github_dark or tokyonight -->
-![Luz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlux&show_icons=true&count_private=true&rank_icon=github&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlux&count_private=true)
+<!-- ![Luz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlux&show_icons=true&count_private=true&rank_icon=github&hide_border=true) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlux&count_private=true) -->
+![Luz's GitHub stats](https://github-readme-stats-zeta-orpin-22.vercel.app/api?username=dlux&show_icons=true&count_private=true&rank_icon=github&hide_border=true)
+![Top Languages](https://github-readme-stats-zeta-orpin-22.vercel.app/api/top-langs/?username=dlux&count_private=true&hide_border=true)
+
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![Luz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlux&theme=react&hide_border=true)
