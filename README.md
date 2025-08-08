@@ -3,7 +3,7 @@
 
 
 - 😄 Pronouns: she/her
-- 💬 Ask me about: networking, virtualization, kubernetes, openstack, ceph, elk, or systems architecture or components
+- 💬 Ask me about: networking, virtualization, kubernetes, openstack, ceph, elk, or systems architecture
 - 🌱 I’m currently learning: about GPU, LLM, RAG, and MCP
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,15 +14,6 @@
 [![X](https://img.shields.io/twitter/follow/dlux_cazares)](https://twitter.com/dlux_cazares)
 [![github](https://img.shields.io/github/followers/dlux)](https://github.com/dlux?tab=followers)
 
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- TODO move blog posts to gitio -->
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Welcome to dlux.github.io](https://dlux.github.io//jekyll/update/2025/08/07/welcome-post1.html)
-<!-- BLOG-POST-LIST:END -->
-
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- other color github_dark or tokyonight -->
 <!-- public server https://github-readme-stats.vercel.app
@@ -32,17 +23,13 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![Luz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlux&theme=react&hide_border=true)
 
-<!--
-**dlux/dlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- TODO move blog posts to gitio -->
+## Latest Blog Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+- [Welcome to dlux.github.io](https://dlux.github.io//jekyll/update/2025/08/07/welcome-post1.html)
+<!-- BLOG-POST-LIST:END -->
+
+
