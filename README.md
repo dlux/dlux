@@ -3,8 +3,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=907DB1FF&width=435&lines=Hi+there+👋)](https://git.io/typing-svg)
-907DB1FF
-8B7E9CFF
+
 <!--# Hi there 👋 -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dlux/dlux)
