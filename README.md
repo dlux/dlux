@@ -19,6 +19,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to dlux.github.io](https://dlux.github.io//jekyll/update/2025/08/07/welcome-post1.html)
 <!-- BLOG-POST-LIST:END -->
 
 
