@@ -1,0 +1,24 @@
+---
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every sunday
+    - cron: '0 0 * * 0'
+  # Run workflow manually - via GitHub Actions Workflow page
+  workflow_dispatch: 
+permissions:
+  # write the generated contents to the readme.md
+  contents: write 
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dlux.github.io/feed.xml"
+

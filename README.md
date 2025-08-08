@@ -1,6 +1,11 @@
 # Hi there, I'm Luz 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dlux/dlux)
 
+
+- 😄 Pronouns: she/her
+- 💬 Ask me about: networking, virtualization, kubernetes, openstack, ceph, elk, or systems architecture or components
+- 🌱 I’m currently learning: about GPU, LLM, RAG, and MCP
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=914AB6&width=435&lines=Luz+Cazares)](https://git.io/typing-svg) -->
 
@@ -10,8 +15,9 @@
 [![github](https://img.shields.io/github/followers/dlux)](https://github.com/dlux?tab=followers)
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- TODO move blog to gitio -->
-<!-- ## Blog posts -->
+<!-- TODO move blog posts to gitio -->
+## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
