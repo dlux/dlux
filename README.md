@@ -1,5 +1,6 @@
 
-# <img width="1024" height="200" alt="banner-gemini-02" src="https://github.com/user-attachments/assets/a4553922-a0e5-40b8-8302-6b14f5b88e8d" />
+# <img width="1024" height="200" alt="banner-gemini-02" src="https://raw.githubusercontent.com/dlux/dlux.github.io/main/assets/dlux-banner-gemini-02.png" />
+<!-- https://github.com/user-attachments/assets/a4553922-a0e5-40b8-8302-6b14f5b88e8d" /> -->
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=907DB1FF&width=435&lines=Hi+there+👋)](https://git.io/typing-svg)
@@ -20,8 +21,9 @@
 <!-- LUZ INTRO -->
 I'm a Full Stack Infrastructure Architect with over 20 years of experience building large-scale data centers and providing technical leadership to multidiciplinary teams.
 
+<!-- ![MX](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png)  Mexican, currently living in the US  -->
+- ![MX](https://raw.githubusercontent.com/dlux/dlux.github.io/main/assets/mx.png) &nbsp; Mexican, currently living in the US
 - 😄 Pronouns: she/her
-- ![MX](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png) Mexican, currently living in the US
 - 💬 Ask me about: networking, virtualization, kubernetes, openstack, ceph, elk, or systems architecture
 - 🌱 I’m currently learning: about GPU, LLM, RAG, and MCP
 
