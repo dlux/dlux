@@ -2,8 +2,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every sunday
-    - cron: '0 0 * * 0'
+    # Runs bi-weekly
+    - cron: '0 0 * * 0,3'
   # Run workflow manually - via GitHub Actions Workflow page
   workflow_dispatch: 
 permissions:
