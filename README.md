@@ -36,5 +36,6 @@ I'm a Full Stack Infrastructure Architect with over 20 years of experience build
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating github.io blog with Jekyll](https://dlux.github.io//jekyll/update/2025/08/12/github-io-jekyll-blog.html)
 - [Welcome to dlux.github.io](https://dlux.github.io//jekyll/update/2025/08/07/welcome-post1.html)
 <!-- BLOG-POST-LIST:END -->
